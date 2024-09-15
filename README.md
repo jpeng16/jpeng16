@@ -11,7 +11,7 @@ I'm a current Master's student in Computer Science from the University of Illino
 🔭 Currently working on curriculum provided by the Odin Project! <br/>
 
 ## Contact 
-Send me a message via linkedin (linkedin.com/jasmineyp) to get in touch ☺️
+Send me a message via linkedin (linkedin.com/jaspeng) to get in touch ☺️
 
 
 <!--
