@@ -5,13 +5,12 @@ I'm a current Master's student in Computer Science from the University of Illino
 ## My Interests
 💻 Machine learning <br/>
 🌐 Web and Mobile Development <br/>
-🧘‍♂️ Yoga and Pilates <br/>
 📺 Keeping up with TV Shows/Movies <br/>
 🎨 Arts and Crafts <br/>
 🔭 Currently working on curriculum provided by the Odin Project! <br/>
 
 ## Contact 
-Send me a message via linkedin (linkedin.com/jaspeng) to get in touch ☺️
+Send me a message via linkedin (linkedin.com/jaspeng) or email (jpeng16@illinois.edu) to get in touch ☺️
 
 
 <!--
