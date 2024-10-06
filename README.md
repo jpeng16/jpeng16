@@ -1,9 +1,9 @@
-## Hi, I'm Jasmine ! 👋 
+# Hi, I'm Jasmine ! 
 
-I'm a current Master's student in Computer Science from the University of Illinois Urbana-Champaign (expected to graduate in December 2025 😄). I come from a background of software testing, but my passion for creating and making things led me to pursue a master's where I can challenge myself to code and create cool projects. 
+I'm a current Master's student in Computer Science from the University of Illinois Urbana-Champaign (expected to graduate in December 2025). I come from a background of software testing, but my passion for learning and creating things led me to pursue a master's where I can challenge myself to explore new technologies and create interesting projects. 
 
-## Contact 
-Send me a message via linkedin (linkedin.com/jaspeng) or email (jpeng16@illinois.edu) to get in touch ☺️
+# Contact 
+Send me a message via linkedin (linkedin.com/jaspeng) or email (jpeng16@illinois.edu) to get in touch.
 
 
 <!--
